@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O progetop gerador de senha e um sistema que gera senha e copia ao click 
+O projeto gerador de senha e um sistema que gera senha automaticas e copia ao click 
 
 - [Acesse o projeto finalizado, online](https://renatodev23.github.io/gerador-de-senha)
 
