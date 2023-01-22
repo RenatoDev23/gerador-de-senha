@@ -1,4 +1,4 @@
-#   <h1 align="center">  PROGETO <h1 align="center"> Gerador de senha </h1>
+#   <h1 align="center">  PROJETO <h1 align="center"> Gerador de senha </h1>
 
 
 
